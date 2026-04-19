@@ -1,0 +1,4 @@
+com/ip241k/skoryk/SpringApp.class
+com/ip241k/skoryk/model/User.class
+com/ip241k/skoryk/repository/UserRepository.class
+com/ip241k/skoryk/controller/UserController.class
